@@ -1,0 +1,10 @@
+{
+    "name": "mathispetit/jcp-vacances",
+    "authors": [
+        {
+            "name": "MathisPFR",
+            "email": "mathispetitfr@gmail.com"
+        }
+    ],
+    "require": {}
+}
